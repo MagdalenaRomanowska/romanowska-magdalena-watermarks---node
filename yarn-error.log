@@ -1,0 +1,31 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Users\Home\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js add jimp@0.6.4
+
+PATH: 
+  C:\Users\Home\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\Home\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Program Files\Broadcom\Broadcom 802.11\Driver;C:\Program Files\WIDCOMM\Bluetooth Software;C:\Program Files\WIDCOMM\Bluetooth Software\syswow64;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\nodejs;C:\Program Files\Git\cmd;C:\Users\Home\AppData\Roaming\npm;C:\Program Files\heroku\bin;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl
+
+Yarn version: 
+  1.22.5
+
+Node version: 
+  10.20.1
+
+Platform: 
+  win32 x64
+
+Trace: 
+  SyntaxError: C:\Users\Home\Desktop\watermarks---node\package.json: Unexpected end of JSON input
+      at JSON.parse (<anonymous>)
+      at C:\Users\Home\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:1625:59
+      at Generator.next (<anonymous>)
+      at step (C:\Users\Home\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:310:30)
+      at C:\Users\Home\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:321:13
+
+npm manifest: 
+  
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
