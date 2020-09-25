@@ -18,7 +18,6 @@ const addTextWatermarkToImage = async function(inputFile, outputFile, text) {
         console.log('Success! Text Watermark was added.');
         startApp();
       } catch(error) {
-        error = 'Something went wrong... Try again.';
         console.log(error);
       }
 };
@@ -38,7 +37,6 @@ const addImageWatermarkToImage = async function(inputFile, outputFile, watermark
         console.log('Success! Image Watermark was added.');
         startApp();
       } catch(error) {
-        error = 'Something went wrong... Try again.';
         console.log(error);
       }
 }; 
